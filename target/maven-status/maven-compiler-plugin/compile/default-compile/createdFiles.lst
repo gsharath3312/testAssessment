@@ -1,0 +1,6 @@
+com\sharath\batch\model\Stock.class
+com\sharath\batch\config\BatchConfiguration.class
+com\sharath\batch\config\StockItemProcessor.class
+com\sharath\batch\BatchApplication.class
+com\sharath\batch\config\BatchConfiguration$1.class
+com\sharath\batch\config\JobCompletionNotificationListener.class
